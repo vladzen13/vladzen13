@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vladzen13
+- 👀 I’m interested in python3 and software development.
+- 🌱 I’m currently learning ML and Deep Learning at https://stepik.org/course/124069/info (nice and cool kaggle account is under progress)
+- 📫 Contact me on Telegram https://t.me/migelson_md 
