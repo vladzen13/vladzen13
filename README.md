@@ -16,6 +16,11 @@ Also:
 - basic nodejs/express and puppeteer browser automation/testing.
 - pandas/numpy/plotly data manipulation and visualization
 
+**Contact me**:
+- [Telegram](https://t.me/migelson_md)
+- Email: vladzen13@yandex.ru
+
+---
 
 
 ![vladzen13's github stats](https://github-readme-stats.vercel.app/api?username=vladzen13&count_private=true&show_icons=true&theme=onedark)
