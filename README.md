@@ -1,5 +1,5 @@
 
-### Hi there!
+## Hi there! 👋
 I do backend on python3:
 - RESTful api and web
 - flask/fastapi/aiohttp
@@ -21,7 +21,6 @@ Also:
 - Email: vladzen13@yandex.ru
 
 ---
-
 
 ![vladzen13's github stats](https://github-readme-stats.vercel.app/api?username=vladzen13&count_private=true&show_icons=true&theme=onedark)
 
