@@ -8,7 +8,7 @@ I do backend on python3:
 - RESTful api and web
 - flask/fastapi/aiohttp
 - mysql/postgresql
-- event-driven: redis pub/sub and rabbitmq
+- redis pub/sub and rabbitmq
 - html/css/jquery/bootstrap
 - docker/linux/cli
 - pytest
