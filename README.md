@@ -1,8 +1,4 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladzen13&layout=compact&hide=css,html)
-
-![vladzen13's github stats](https://github-readme-stats.vercel.app/api?username=vladzen13&count_private=true&show_icons=true&theme=onedark)
-
 #### Hire me now!
 I do backend on python3:
 - RESTful api and web
@@ -19,6 +15,12 @@ Also:
 - telegram bots
 - basic nodejs/express and puppeteer browser automation/testing.
 - pandas/numpy/plotly data manipulation and visualization
+
+
+
+![vladzen13's github stats](https://github-readme-stats.vercel.app/api?username=vladzen13&count_private=true&show_icons=true&theme=onedark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladzen13&layout=compact&hide=css,html)
 
 
 <!--
