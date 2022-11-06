@@ -7,6 +7,8 @@ I do backend on python3:
 - redis pub/sub and rabbitmq
 - html/css/jquery/bootstrap
 - docker/linux/cli
+- grafana, influxdb
+- owasp web security testing guide
 - pytest
 
 Also:
