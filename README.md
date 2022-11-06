@@ -22,12 +22,13 @@ Also:
 
 ---
 
+<!--
+
 ![vladzen13's github stats](https://github-readme-stats.vercel.app/api?username=vladzen13&count_private=true&show_icons=true&theme=onedark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladzen13&layout=compact&hide=css,html)
 
 
-<!--
 - 👋 Hi, I’m @vladzen13
 - 👀 I’m interested in python3 and software development.
 - 🌱 I’m currently learning ML and Deep Learning at https://stepik.org/course/124069/info (nice and cool kaggle account is under progress)
