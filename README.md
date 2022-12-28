@@ -19,7 +19,6 @@ Also:
 - pandas/numpy/plotly data manipulation and visualization
 
 **Contact me**:
-- [Telegram](https://t.me/migelson_md)
 - Email: vladzen13@yandex.ru
 
 ---
