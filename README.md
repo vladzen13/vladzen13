@@ -18,8 +18,11 @@ Also:
 - basic nodejs/express and puppeteer browser automation/testing.
 - pandas/numpy/plotly data manipulation and visualization
 
-**Contact me**:
+**Hire me directly on [UpWork](https://www.upwork.com/workwith/vladislavz18)**!
+
+**Feel free to contact me**:
 - Email: vladzen13@yandex.ru
+- Telegram: [@fastapi_backend_development](https://t.me/fastapi_backend_development)
 
 ---
 
